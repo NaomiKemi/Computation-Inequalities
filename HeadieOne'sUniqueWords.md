@@ -1,5 +1,5 @@
 # There are 1030 unique words
-and:71
+and:71 , 
 in:58
 me:57
 to:52
